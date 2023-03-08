@@ -3,7 +3,7 @@
 
 [![Erem'in Github Aktiviteleri](https://github-readme-stats.vercel.app/api?username=eremkaralar&theme=dark&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/eremkaralar/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eremkaralar&layout=compact)](https://github.com/eremkaralar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eremkaralar&layout=compact&theme=dark&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/eremkaralar/github-readme-stats)
 
 <!--
 **eremkaralar/eremkaralar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
