@@ -1,5 +1,4 @@
 ## 👋 Hey, welcome to my repo! 
-### 💬 Ask me about NLP, ML, AI and Python (mainly)!
 
 [![Erem'in Github Aktiviteleri](https://github-readme-stats.vercel.app/api?username=eremkaralar&theme=dark&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/eremkaralar/github-readme-stats)
 
